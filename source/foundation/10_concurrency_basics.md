@@ -41,7 +41,7 @@
 
 ## 验证与练习
 
-先完成 [`FQ07 Token Queue`](../exercises/foundation/problems/fq07_token_queue/README.md) 和 [`FQ11 Request Queue`](../exercises/foundation/problems/fq11_request_queue/README.md)，检查 FIFO、容量、取消和失败路径。随后运行：
+先完成 [`FQ07 Token Queue`](https://github.com/datawhalechina/cpp-llm-engine/blob/main/exercises/foundation/problems/fq07_token_queue/README.md) 和 [`FQ11 Request Queue`](https://github.com/datawhalechina/cpp-llm-engine/blob/main/exercises/foundation/problems/fq11_request_queue/README.md)，检查 FIFO、容量、取消和失败路径。随后运行：
 
 ```bash
 bash code/chapter10_serving/scripts/run.sh
